@@ -27,5 +27,3 @@ Cargo.lock file specifies the version of all the dependencies
 Rust Strings are always UTF-8
 
 Vec<_> is shorthand for vector which is a collection type that can expand dynamically, the _ is to infer the type of the elements
-
-
